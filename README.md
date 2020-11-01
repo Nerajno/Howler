@@ -1,2 +1,8 @@
 # Howler
-A SPA that tracks the phases of the moon. 
+A SPA  based on your location [input or request access for location] that display the current phase of the moon. 
+
+## Screenshot
+
+## Rationale
+
+# User Stories
