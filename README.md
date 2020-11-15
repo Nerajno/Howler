@@ -1,5 +1,6 @@
 # Howler
-A SPA  based on your location [input location or requested access for location] that display the current phase of the moon. 
+A SPA ( single-page-app ) weather app that display's phases of the moom based on your location  { current or inputted}
+** it also displays current weather on a flipped card.
 
 ### Screenshot
 
