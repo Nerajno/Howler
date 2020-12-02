@@ -8,9 +8,9 @@ const conditions = (props) => {
                 <div>
                     <p> <strong>{props.responseObj.name}</strong></p>
                     <p>Its is currently {Math.round(props.responseObj.main.temp)} degrees out with {props.responseObj.weather[0].description}.</p>
-                </div> 
-            : null
-        }
+                </div>
+                : null
+            }
         </div>
     )
 }
